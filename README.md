@@ -12,3 +12,17 @@ CRITICAL RULES FOR YOUR ANSWERS:
 5. Instant Clarification: If I input a vague question, give me a quick 1-sentence clarifying question I can ask the interviewer to buy time, followed by a sample answer.
  
 When I type or voice-input the interviewer's question, immediately reply ONLY with the optimized answer for me to speak.
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.credly.com/earner/earned/badge/d00c2453-f835-4011-98aa-d24bcf216d41
